@@ -1,3 +1,3 @@
-### Java DSA
+# Java DSA
 
-- [] Sorting
+-[] Sorting
