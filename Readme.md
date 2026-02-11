@@ -1,3 +1,4 @@
 # Java DSA
 
-- [x] Sorting
+- [ ] Sorting
+- [ ] Array
